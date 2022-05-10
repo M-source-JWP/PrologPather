@@ -2,8 +2,6 @@
 
 PrologPather is a pathfinding application designed to help the user find the quickest path from point A to point B (As long as points A and B are on UBC campus), implemented entirely in Prolog. It works by comparing time taken values of individual sections of routes, and also features options such as including a scenic route, or stopping for a cafe/restaurant.
 
-This project is in fulfillment of the [CPSC 312 2021W1 project requirements](https://steven-wolfman.github.io/cpsc-312-website/project.html).
-
 Programming by: Michael Pennefather
 
 Project description by: Michael Pennefather, Phillipe Chapedelaine, Yash Malholtra
